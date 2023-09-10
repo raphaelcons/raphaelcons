@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Inspection Engineer
 -------------------
 
-I've been learning to code to fulfill my passion of creating web apps for engineering. I sincerely believe in the astonishing power of automating tasks provedided by programming and how powerful this can be in the context of daily work. From a simple worksheet that requires automation to bolder, bigger projects, I'm always enthusiastic about making my teamworkers job faster, eliminating tedious and time-consuming routines.
+I've been learning to code to fulfill my passion of creating web apps for engineering. I sincerely believe in the astonishing power of automating tasks provided by programming and how powerful this can be in the context of daily work. From a simple worksheet that requires automation to bolder, bigger projects, I'm always enthusiastic about making my colleagues’ job faster, eliminating tedious and time-consuming routines.
 
 *   🌍  I'm based in São Paulo
 *   ✉️  You can contact me at [raphaelconsandrades@yahoo.com.br](mailto:raphaelconsandrades@yahoo.com.br)
